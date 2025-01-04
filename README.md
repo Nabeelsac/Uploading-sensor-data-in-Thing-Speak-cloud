@@ -1,7 +1,7 @@
 ### NAME : NATHER NABEEL S.A.C
 ### REG NO : 24900919
-
-# Uploading temperature sensor data in Thing Speak cloud
+# EXP : 3
+# Monitoring temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
