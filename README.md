@@ -147,6 +147,8 @@ void loop()
 
 ![image](https://github.com/user-attachments/assets/518d2942-ee4e-4fc4-a840-eafa51846c70)
 
+<img src="https://github.com/user-attachments/assets/74da684b-4abd-44fb-bc80-954572d19971" width="600">
+
 
 
 # RESULT:
